@@ -4,8 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=500&lines=Ingin+Menjadi+Programmer+Handal;Namun+Enggan+Ngoding" alt="Typing Animation">
 </p>
 
----
-
 ## 🧛‍♂️ About Me
 
 🎯 Backend artisan who forges RESTful APIs and refuses to ship without tests  
@@ -13,6 +11,12 @@
 🤓 Tinkering with queues, Docker, and the eternal mystery: “Why does it work on my machine?”  
 🚀 Converts ☕ into code and hopes prod survives the night  
 
+
+## 👁️ Highlights 
+
+![Profile Views](https://komarev.com/ghpvc/?username=Nearee&color=orange&style=flat)
+![Followers](https://img.shields.io/github/followers/Nearee?label=Follow&style=social)
+![Star Badge](https://img.shields.io/github/stars/Nearee?style=social)
 ---
 
 ## 🚀 Tech Stack
@@ -25,7 +29,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
----
 
 ## 📈 GitHub Activity Graph
 
@@ -48,11 +51,3 @@
 - 🧠 Error codes live rent‑free in my head  
 - 🕹️ Peak debugging hours: 00:00 – 03:00  
 - 💻 `$ sudo apt-get coffee` is my real CI/CD pipeline  
-
----
-
-## 👁️ Highlights 
-
-![Profile Views](https://komarev.com/ghpvc/?username=Nearee&color=orange&style=flat)
-![Followers](https://img.shields.io/github/followers/Nearee?label=Follow&style=social)
-![Star Badge](https://img.shields.io/github/stars/Nearee?style=social)
