@@ -6,13 +6,16 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 😎 About Me
 
-I'm a backend-focused web developer who enjoys building clean, secure, and scalable systems.  
+🎯 I'm a backend-focused web developer  
+🛠️ I love building secure and scalable systems  
+💬 Mostly working with **PHP**, **CI4**, and **MySQL**  
+📍 Based in Indonesia 🇮🇩
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 Tech Stack
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-DD4814?style=for-the-badge&logo=codeigniter&logoColor=white)
@@ -23,7 +26,18 @@ I'm a backend-focused web developer who enjoys building clean, secure, and scala
 
 ---
 
-## 📂 Projects
+## 🏆 Highlights & Fun Badges
+
+![Profile Views](https://komarev.com/ghpvc/?username=Nearee&color=orange&style=flat)
+![Followers](https://img.shields.io/github/followers/Nearee?label=Follow&style=social)
+![Star Badge](https://img.shields.io/github/stars/Nearee?style=social)
+
+![Working on](https://img.shields.io/badge/Currently_Building-Internship_System-orange)
+![Coffee Lover](https://img.shields.io/badge/Fueled_By-KopiHitam☕-brown)
+
+---
+
+## 💼 Projects
 
 <details>
   <summary><b>📁 Internship Management System</b></summary>
@@ -54,8 +68,16 @@ I'm a backend-focused web developer who enjoys building clean, secure, and scala
 
 ---
 
-## 📬 Contact
+## 📬 Contact Me
 
 📧 Email: [antamaprazz@gmail.com](mailto:antamaprazz@gmail.com)  
 <!-- 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)   -->
 <!-- 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com) -->
+
+---
+
+## ✨ Fun Facts
+
+- 🧠 I memorize error codes better than my ID number  
+- 🕹️ I debug better after midnight  
+- 💻 `$ sudo apt-get coffee` is my real productivity hack
