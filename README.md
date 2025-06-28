@@ -11,12 +11,9 @@
 🤓 Tinkering with queues, Docker, and the eternal mystery: “Why does it work on my machine?”  
 🚀 Converts ☕ into code and hopes prod survives the night  
 
-
-## 👁️ Highlights 
-
 ![Profile Views](https://komarev.com/ghpvc/?username=Nearee&color=orange&style=flat)
 ![Followers](https://img.shields.io/github/followers/Nearee?label=Follow&style=social)
-![Star Badge](https://img.shields.io/github/stars/Nearee?style=social)
+
 ---
 
 ## 🚀 Tech Stack
