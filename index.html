@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Taka Ae | Web Developer</title>
+  <link rel="stylesheet" href="https://unpkg.com/modern-css-reset/dist/reset.min.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" integrity="sha512-BZnRrULoRbA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+  <style>
+    :root {
+      --accent: #f97316;
+      --bg: #ffffff;
+      --text: #1f2937;
+      --card-bg: #f9fafb;
+      --card-border: #e5e7eb;
+      --transition: all 0.3s ease-in-out;
+    }
+
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background-color: var(--bg);
+      color: var(--text);
+      padding: 2rem 1.5rem;
+      max-width: 1000px;
+      margin: auto;
+      line-height: 1.6;
+    }
+
+    h1 {
+      font-size: 2.4rem;
+      color: var(--accent);
+      text-align: center;
+      margin-bottom: 1rem;
+    }
+
+    h2 {
+      font-size: 1.5rem;
+      margin-top: 2rem;
+    }
+
+    .icon {
+      margin-right: 0.5rem;
+      transition: var(--transition);
+      display: inline-block;
+    }
+
+    /* Icon animation on hover */
+    h2:hover .icon, summary:hover .icon {
+      transform: rotate(12deg) scale(1.2);
+      color: var(--accent);
+    }
+
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: white;
+      padding: 6px 12px;
+      border-radius: 5px;
+      font-size: 0.85rem;
+      margin: 4px 4px 4px 0;
+    }
+
+    .typing {
+      display: flex;
+      justify-content: center;
+      margin: 1.5rem 0;
+    }
+
+    .typing img {
+      max-width: 100%;
+    }
+
+    a {
+      color: var(--accent);
+      text-decoration: none;
+    }
+
+    /* Project Grid */
+    .projects-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 1rem;
+      margin-top: 1rem;
+    }
+
+    .project-card {
+      background: var(--card-bg);
+      padding: 1rem;
+      border-radius: 8px;
+      border: 1px solid var(--card-border);
+      transition: var(--transition);
+    }
+
+    .project-card:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.06);
+    }
+
+    .project-title {
+      font-size: 1.1rem;
+      font-weight: 600;
+      margin-bottom: 0.3rem;
+    }
+
+    .project-link {
+      display: inline-block;
+      margin-top: 0.5rem;
+      font-weight: 500;
+    }
+
+    .accordion details {
+      margin: 1rem 0;
+      border: 1px solid var(--card-border);
+      border-radius: 6px;
+      background: var(--card-bg);
+      overflow: hidden;
+      transition: var(--transition);
+    }
+
+    .accordion summary {
+      cursor: pointer;
+      padding: 0.8rem 1rem;
+      font-weight: 600;
+      background: var(--card-bg);
+      display: flex;
+      align-items: center;
+    }
+
+    .accordion summary:hover {
+      background-color: #fef3c7;
+    }
+
+    .accordion div.content {
+      padding: 1rem;
+      border-top: 1px solid var(--card-border);
+    }
+
+    .center {
+      text-align: center;
+    }
+
+    @media (max-width: 600px) {
+      body {
+        padding: 1rem;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <h1><i class="fas fa-code icon"></i>Taka Ae</h1>
+
+  <!-- Typing intro -->
+  <div class="typing">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=400&lines=Web+Developer+from+Indonesia;Focused+on+CI4%2C+PHP%2C+Tailwind%2C+APIs" alt="Typing Animation">
+  </div>
+
+  <!-- Accordion Section -->
+  <div class="accordion">
+    
+    <!-- About -->
+    <details open>
+      <summary><i class="fas fa-user icon"></i>About Me</summary>
+      <div class="content">
+        I'm a backend-focused web developer who enjoys building clean, secure, and scalable systems. I mainly use PHP and CodeIgniter 4 for logic and MySQL for data, with TailwindCSS to keep UIs lightweight and beautiful.
+      </div>
+    </details>
+
+    <!-- Tech Stack -->
+    <details>
+      <summary><i class="fas fa-tools icon"></i>Tech Stack</summary>
+      <div class="content">
+        <span class="badge">PHP</span>
+        <span class="badge">CodeIgniter 4</span>
+        <span class="badge">MySQL</span>
+        <span class="badge">TailwindCSS</span>
+        <span class="badge">JavaScript</span>
+        <span class="badge">Bootstrap</span>
+      </div>
+    </details>
+
+    <!-- Projects -->
+    <details>
+      <summary><i class="fas fa-laptop-code icon"></i>Projects</summary>
+      <div class="content projects-grid">
+        <div class="project-card">
+          <div class="project-title">Internship Management System</div>
+          <p>Manage student registrations, approvals, and schedules for government internships.</p>
+          <a href="https://github.com/taka-ae/internship-system" class="project-link">🔗 GitHub</a>
+        </div>
+        <div class="project-card">
+          <div class="project-title">JWT Auth API (CI4)</div>
+          <p>Secure token-based authentication in CodeIgniter 4 using JWT middleware.</p>
+          <a href="https://github.com/taka-ae/ci4-jwt-auth" class="project-link">🔗 GitHub</a>
+        </div>
+        <div class="project-card">
+          <div class="project-title">Student Dashboard UI</div>
+          <p>Minimal responsive dashboard using TailwindCSS and plain JS.</p>
+          <a href="#" class="project-link">🔗 GitHub</a>
+        </div>
+      </div>
+    </details>
+
+    <!-- GitHub Graph -->
+    <details>
+      <summary><i class="fas fa-chart-line icon"></i>GitHub Activity</summary>
+      <div class="content center">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=taka-ae&theme=github-compact&area=true&hide_border=true" alt="GitHub Graph" loading="lazy" />
+      </div>
+    </details>
+
+    <!-- Contact -->
+    <details>
+      <summary><i class="fas fa-envelope icon"></i>Contact</summary>
+      <div class="content">
+        📧 Email: <a href="mailto:youremail@example.com">youremail@example.com</a><br>
+        🔗 LinkedIn: <a href="https://linkedin.com/in/yourprofile">linkedin.com/in/yourprofile</a><br>
+        🌐 Portfolio: <a href="https://yourportfolio.com">yourportfolio.com</a>
+      </div>
+    </details>
+
+  </div>
+
+  <!-- Accordion Logic (Open one at a time) -->
+  <script>
+    const accordions = document.querySelectorAll(".accordion details");
+    accordions.forEach((el) => {
+      el.addEventListener("toggle", () => {
+        if (el.open) {
+          accordions.forEach((other) => {
+            if (other !== el) other.removeAttribute("open");
+          });
+        }
+      });
+    });
+  </script>
+
+</body>
+</html>
