@@ -44,14 +44,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nearee&layout=compact&theme=gruvbox&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ## 📈 GitHub Activity Graph
 
 <p align="center">
