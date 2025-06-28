@@ -10,9 +10,7 @@
 ## 😎 About Me
 
 🎯 I'm a backend-focused web developer  
-🛠️ I love building secure and scalable systems  
 💬 Mostly working with **PHP**, **CI4**, and **MySQL**  
-📍 Based in Indonesia 🇮🇩
 
 ---
 
