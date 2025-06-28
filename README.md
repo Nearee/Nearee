@@ -7,8 +7,7 @@
 ## 🧛‍♂️ About Me
 
 🎯 Backend artisan who forges RESTful APIs and refuses to ship without tests  
-💬 Fluent in **PHP**, **CodeIgniter 4**, **Laravel**, and **MySQL**  
-🤓 Tinkering with queues, Docker, and the eternal mystery: “Why does it work on my machine?”  
+💬 Fluent in **PHP**, **CodeIgniter 4**, **Laravel**, and **MySQL**
 🚀 Converts ☕ into code and hopes prod survives the night  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Nearee&color=orange&style=flat)
