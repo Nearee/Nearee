@@ -6,8 +6,7 @@
 
 ## 🧛‍♂️ About Me
 
-![Profile Views](https://komarev.com/ghpvc/?username=Nearee&color=orange&style=flat)
-![Followers](https://img.shields.io/github/followers/Nearee?label=Follow&style=social)
+
 
 🎯 I’m a backend developer who talks to databases more than humans.  
 💬 Fluent in `PHP`, whisperer of `MySQL`, and occasional Laravel sorcerer 🧙‍♂️  
@@ -46,3 +45,5 @@
 📧 Email: [antamaprazz@gmail.com](mailto:antamaprazz@gmail.com)  
 <!-- 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)   -->
 <!-- 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com) -->
+![Profile Views](https://komarev.com/ghpvc/?username=Nearee&color=orange&style=flat)
+![Followers](https://img.shields.io/github/followers/Nearee?label=Follow&style=social)
