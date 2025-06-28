@@ -4,13 +4,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=500&lines=Ingin+Menjadi+Programmer+Handal;Namun+Enggan+Ngoding" alt="Typing Animation">
 </p>
 
-
 ---
 
 ## 😎 About Me
 
 🎯 I'm a backend-focused web developer  
-💬 Mostly working with **PHP**, **CI4**, and **MySQL**  
+💬 Mostly working with **PHP**, **CodeIgniter 4**, and **MySQL**  
+🌱 Passionate about building clean and efficient systems
 
 ---
 
@@ -25,21 +25,38 @@
 
 ---
 
-## 🏆 Highlights & Fun Badges
+## 🏆 Highlights & Badges
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Nearee&color=orange&style=flat)
 ![Followers](https://img.shields.io/github/followers/Nearee?label=Follow&style=social)
 ![Star Badge](https://img.shields.io/github/stars/Nearee?style=social)
 
 ![Working on](https://img.shields.io/badge/Currently_Building-Internship_System-orange)
-![Coffee Lover](https://img.shields.io/badge/Fueled_By-KopiHitam☕-brown)
+![Fueled By](https://img.shields.io/badge/Fueled_By-KopiHitam☕-brown)
 
 ---
 
+## 🧩 GitHub Trophies
 
-## 📈 GitHub Activity
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Nearee&theme=gruvbox&no-frame=true&margin-w=10" alt="Trophies" />
+</p>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nearee&theme=github-compact&area=true&hide_border=true)
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nearee&layout=compact&theme=gruvbox&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+## 📈 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nearee&theme=github-compact&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</p>
 
 ---
 
