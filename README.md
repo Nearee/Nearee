@@ -6,6 +6,9 @@
 
 ## 🧛‍♂️ About Me
 
+![Profile Views](https://komarev.com/ghpvc/?username=Nearee&color=orange&style=flat)
+![Followers](https://img.shields.io/github/followers/Nearee?label=Follow&style=social)
+
 🎯 I’m a backend developer who talks to databases more than humans.  
 💬 Fluent in `PHP`, whisperer of `MySQL`, and occasional Laravel sorcerer 🧙‍♂️  
 ⚙️ I enjoy turning complex logic into something even I can understand after 3 days.  
@@ -16,8 +19,6 @@
 > *“It’s not a bug. It’s an undocumented feature.” — every developer ever*
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=Nearee&color=orange&style=flat)
-![Followers](https://img.shields.io/github/followers/Nearee?label=Follow&style=social)
 
 ---
 
