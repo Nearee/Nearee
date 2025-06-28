@@ -40,11 +40,3 @@
 📧 Email: [antamaprazz@gmail.com](mailto:antamaprazz@gmail.com)  
 <!-- 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)   -->
 <!-- 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com) -->
-
----
-
-## ✨ Fun Facts
-
-- 🧠 Error codes live rent‑free in my head  
-- 🕹️ Peak debugging hours: 00:00 – 03:00  
-- 💻 `$ sudo apt-get coffee` is my real CI/CD pipeline  
