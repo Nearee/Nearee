@@ -79,7 +79,7 @@
   <!-- ----------  Header with typing animation ---------- -->
   <h1 align="center">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F97316&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Antasena;Web+Developer+from+Indonesia;CodeIgniter+%7C+PHP+%7C+Tailwind+%7C+MySQL"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F97316&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Taka+Ae;Web+Developer+from+Indonesia;CodeIgniter+%7C+PHP+%7C+Tailwind+%7C+MySQL"
       alt="Typing introduction"
     />
   </h1>
@@ -98,14 +98,14 @@
 
   <!-- ---------- Contact ---------- -->
   <h2>📬 Contact</h2>
-  <p>Email: <a href="mailto:antamaprazz@gmail.com">antamaprazz@gmail.com</a></p>
-  <!-- <p>LinkedIn: <a href="https://linkedin.com/in/yourprofile">yourprofile</a></p> -->
+  <p>Email: <a href="mailto:youremail@example.com">youremail@example.com</a></p>
+  <p>LinkedIn: <a href="https://linkedin.com/in/yourprofile">yourprofile</a></p>
 
   <!-- ---------- GitHub Contribution Graph ---------- -->
   <h2>📊 GitHub Contribution Graph</h2>
   <p align="center">
     <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=Nearee&theme=github-compact&area=true&hide_border=true"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=taka-ae&theme=github-compact&area=true&hide_border=true"
       alt="Contribution graph"
       loading="lazy"
     />
