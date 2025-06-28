@@ -36,30 +36,6 @@
 
 ---
 
-## 💼 Projects
-
-<details>
-  <summary><b>📁 Internship Management System</b></summary>
-
-  Manage student registrations, approvals, and schedules for government internships.  
-  🔗 [View on GitHub](https://github.com/Nearee/internship-system)
-</details>
-
-<details>
-  <summary><b>🔐 JWT Auth API (CI4)</b></summary>
-
-  Secure token-based authentication in CodeIgniter 4 using JWT middleware.  
-  🔗 [View on GitHub](https://github.com/Nearee/ci4-jwt-auth)
-</details>
-
-<details>
-  <summary><b>📊 Student Dashboard UI</b></summary>
-
-  Minimal responsive dashboard using TailwindCSS and plain JS.  
-  🔗 [View on GitHub](#)
-</details>
-
----
 
 ## 📈 GitHub Activity
 
