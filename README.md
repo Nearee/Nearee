@@ -8,7 +8,10 @@
 
 🎯 Backend artisan who forges RESTful APIs and refuses to ship without tests  
 💬 Fluent in **PHP**, **CodeIgniter 4**, **Laravel**, and **MySQL**
-🚀 Converts ☕ into code and hopes prod survives the night  
+🚀 Converts ☕ into code and hopes prod survives the night
+🎮 Outside of coding, I enjoy late-night debugging, black coffee, and discovering new tech trends
+
+> *"Talk is cheap. Show me the code." — Linus Torvalds*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Nearee&color=orange&style=flat)
 ![Followers](https://img.shields.io/github/followers/Nearee?label=Follow&style=social)
