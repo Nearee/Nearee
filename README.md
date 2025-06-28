@@ -25,25 +25,6 @@
 
 ---
 
-## 🏆 Highlights & Badges
-
-![Profile Views](https://komarev.com/ghpvc/?username=Nearee&color=orange&style=flat)
-![Followers](https://img.shields.io/github/followers/Nearee?label=Follow&style=social)
-![Star Badge](https://img.shields.io/github/stars/Nearee?style=social)
-
-![Working on](https://img.shields.io/badge/Currently_Building-Internship_System-orange)
-![Fueled By](https://img.shields.io/badge/Fueled_By-KopiHitam☕-brown)
-
----
-
-## 🧩 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nearee&theme=gruvbox&no-frame=true&margin-w=10" alt="Trophies" />
-</p>
-
----
-
 ## 📈 GitHub Activity Graph
 
 <p align="center">
@@ -65,3 +46,14 @@
 - 🧠 I memorize error codes better than my ID number  
 - 🕹️ I debug better after midnight  
 - 💻 `$ sudo apt-get coffee` is my real productivity hack
+
+---
+
+## 🏆 Highlights & Badges
+
+![Profile Views](https://komarev.com/ghpvc/?username=Nearee&color=orange&style=flat)
+![Followers](https://img.shields.io/github/followers/Nearee?label=Follow&style=social)
+![Star Badge](https://img.shields.io/github/stars/Nearee?style=social)
+
+![Working on](https://img.shields.io/badge/Currently_Building-Internship_System-orange)
+![Fueled By](https://img.shields.io/badge/Fueled_By-KopiHitam☕-brown)
