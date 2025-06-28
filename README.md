@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Antasena
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=400&lines=Ingin+Menjadi+Programmer+Handal,+Namun+Enggan+Ngoding;" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=500&lines=Ingin+Menjadi+Programmer+Handal,+Namun+Enggan+Ngoding" alt="Typing Animation" />
+</p>
 
 ---
 
