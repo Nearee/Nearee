@@ -51,11 +51,8 @@
 
 ---
 
-## 🏆 Highlights & Badges
+## 👁️ Highlights 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Nearee&color=orange&style=flat)
 ![Followers](https://img.shields.io/github/followers/Nearee?label=Follow&style=social)
 ![Star Badge](https://img.shields.io/github/stars/Nearee?style=social)
-
-![Working on](https://img.shields.io/badge/Currently_Building-Internship_System-orange)
-![Fueled By](https://img.shields.io/badge/Fueled_By-KopiHitam☕-brown)
