@@ -12,8 +12,6 @@
 💬 Mostly working with **PHP**, **CodeIgniter 4**, and **MySQL**  
 🌱 Passionate about building clean and efficient systems
 
----
-
 ## 🚀 Tech Stack
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -23,7 +21,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
----
 
 ## 📈 GitHub Activity Graph
 
@@ -31,7 +28,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nearee&theme=github-compact&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
----
 
 ## 📬 Contact Me
 
